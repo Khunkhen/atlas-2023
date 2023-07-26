@@ -1,0 +1,43 @@
+{
+	"id": -1,
+	"name": "kirby",
+	"description": "3 different colored Kirby's in a line grey orange and dark holding a star rod",
+	"links": {
+		"subreddit": [
+			"Kirby"
+		],
+		"discord": [
+			"kirby"
+		]
+	},
+	"path": {
+		"254": [
+			[
+				-165,
+				419
+			],
+			[
+				-165,
+				419
+			],
+			[
+				-164,
+				429
+			],
+			[
+				-140,
+				429
+			],
+			[
+				-140,
+				421
+			]
+		]
+	},
+	"center": {
+		"254": [
+			-158,
+			424
+		]
+	}
+}
